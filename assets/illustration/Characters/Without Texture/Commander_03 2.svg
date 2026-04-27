@@ -1,0 +1,24 @@
+<svg width="577" height="557" viewBox="0 0 577 557" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_2108_1031)">
+<rect x="0.27002" y="0.199951" width="576" height="556.8" fill="url(#pattern0_2108_1031)"/>
+<rect x="127.2" y="165.6" width="326.4" height="268.8" fill="url(#pattern1_2108_1031)"/>
+<rect x="153.87" y="290.6" width="124.8" height="153.6" fill="url(#pattern2_2108_1031)"/>
+</g>
+<defs>
+<pattern id="pattern0_2108_1031" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2108_1031" transform="scale(0.00414938 0.00429185)"/>
+</pattern>
+<pattern id="pattern1_2108_1031" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_2108_1031" transform="scale(0.0144928 0.0175439)"/>
+</pattern>
+<pattern id="pattern2_2108_1031" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_2108_1031" transform="scale(0.037037 0.030303)"/>
+</pattern>
+<clipPath id="clip0_2108_1031">
+<rect width="576.27" height="557" fill="white"/>
+</clipPath>
+<image id="image0_2108_1031" width="241" height="233" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"/>
+<image id="image1_2108_1031" width="69" height="57" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAA5CAYAAABgbeaTAAAACXBIWXMAAAJOAAACTgEl1tp0AAABp0lEQVRoge2aUW7DIAyG8bQrdJdrdrqll1sPQZ8q0QiCMTZ2pP97q1Rs5wsQByUlAAAAAICYkGXw7XbP5e/9+TDNp4VqkUcJJRIhrXjWclWCn8lIae4ierFn49eYCraqYE4ezXyiAB53j5tXI//QQG5R1mveWg57AKeQv//9MziRqpyc80cNvz8ba9yomO6fezKOIqpJJuUcZdTgCOLKOf3TyDQtqYmSisk559YFt24IEVGtdnUpZUDJUkpJJsZj2ZoU+Wa22JW5Sr6kA62RLl0NhqSMFnrcC1obpoUAzubcIuxMGYX7eObgLsVzmbRwlVIKiSTHfaZowWkiuQxJucohUUqBH8lnvUPvVM7zBgxL4U5Tzem8OtewFCKiXhFaLf7+fCzLVfItGURENNIczRS5MtcbkZQyea/gWpGjj19OLs2zm+mNljpw43BEaeTh4LLDe53xcgnbvEXqcF3ZbvcMGQAAAK6F1tMrbJ/iifjdJxLavc1lTtJaWHxCdsmZYt31hpwp0ovWeol0l6J11zXfqt2lpDQvJtSHgBZE+YQMAAAAACAiL8MJ0G8DldvyAAAAAElFTkSuQmCC"/>
+<image id="image2_2108_1031" width="27" height="33" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAhCAYAAAAoNdCeAAAACXBIWXMAAAJOAAACTgEl1tp0AAAAbElEQVRIie2UwQ3AIAwDTUdhHsbtPF0FFqioE1zEw/cmuhjJAYwxx9Fq79nZkhXdTwnNAsAVHXgTy2Ur3xeWKRagZIpUtEy1yKdMlYqSKZl2JZKK6d3WZJb9L8sc27SMhV2KejSrgDq9MWaNAcTTIDp8vareAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

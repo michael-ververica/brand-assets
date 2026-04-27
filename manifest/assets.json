@@ -1,0 +1,2262 @@
+{
+  "version": "2026.04.27",
+  "base_url_raw": "https://raw.githubusercontent.com/michael-ververica/brand-assets/main/",
+  "assets": [
+    {
+      "id": "icons.ai-in-motion.svg",
+      "path": "assets/icons/AI in Motion.svg",
+      "format": "svg",
+      "name": "AI in Motion"
+    },
+    {
+      "id": "icons.bank-lean.svg",
+      "path": "assets/icons/Bank Lean.svg",
+      "format": "svg",
+      "name": "Bank Lean"
+    },
+    {
+      "id": "icons.cyber-circle.png",
+      "path": "assets/icons/Cyber Circle.png",
+      "format": "png",
+      "name": "Cyber Circle"
+    },
+    {
+      "id": "icons.cyber-circle.svg",
+      "path": "assets/icons/Cyber Circle.svg",
+      "format": "svg",
+      "name": "Cyber Circle"
+    },
+    {
+      "id": "icons.cyber-cross.png",
+      "path": "assets/icons/Cyber Cross.png",
+      "format": "png",
+      "name": "Cyber Cross"
+    },
+    {
+      "id": "icons.cyber-cross.svg",
+      "path": "assets/icons/Cyber Cross.svg",
+      "format": "svg",
+      "name": "Cyber Cross"
+    },
+    {
+      "id": "icons.cyber-frame-2.png",
+      "path": "assets/icons/Cyber Frame 2.png",
+      "format": "png",
+      "name": "Cyber Frame 2"
+    },
+    {
+      "id": "icons.cyber-frame-2.svg",
+      "path": "assets/icons/Cyber Frame 2.svg",
+      "format": "svg",
+      "name": "Cyber Frame 2"
+    },
+    {
+      "id": "icons.cyber-frame.png",
+      "path": "assets/icons/Cyber Frame.png",
+      "format": "png",
+      "name": "Cyber Frame"
+    },
+    {
+      "id": "icons.cyber-frame.svg",
+      "path": "assets/icons/Cyber Frame.svg",
+      "format": "svg",
+      "name": "Cyber Frame"
+    },
+    {
+      "id": "icons.cyber-shot.png",
+      "path": "assets/icons/Cyber Shot.png",
+      "format": "png",
+      "name": "Cyber Shot"
+    },
+    {
+      "id": "icons.cyber-shot.svg",
+      "path": "assets/icons/Cyber Shot.svg",
+      "format": "svg",
+      "name": "Cyber Shot"
+    },
+    {
+      "id": "icons.cyber-three-shot.png",
+      "path": "assets/icons/Cyber Three Shot.png",
+      "format": "png",
+      "name": "Cyber Three Shot"
+    },
+    {
+      "id": "icons.cyber-three-shot.svg",
+      "path": "assets/icons/Cyber Three Shot.svg",
+      "format": "svg",
+      "name": "Cyber Three Shot"
+    },
+    {
+      "id": "icons.cyber-plus-copy.png",
+      "path": "assets/icons/Cyber plus copy.png",
+      "format": "png",
+      "name": "Cyber plus copy"
+    },
+    {
+      "id": "icons.hero-icon-1@3000x.png",
+      "path": "assets/icons/HERO ICON 1@3000x.png",
+      "format": "png",
+      "name": "HERO ICON 1@3000x"
+    },
+    {
+      "id": "icons.hero-icon-2@3000x.png",
+      "path": "assets/icons/HERO ICON 2@3000x.png",
+      "format": "png",
+      "name": "HERO ICON 2@3000x"
+    },
+    {
+      "id": "icons.hero-icon-3@3000x.png",
+      "path": "assets/icons/HERO ICON 3@3000x.png",
+      "format": "png",
+      "name": "HERO ICON 3@3000x"
+    },
+    {
+      "id": "icons.hero-icon-4@3000x.png",
+      "path": "assets/icons/HERO ICON 4@3000x.png",
+      "format": "png",
+      "name": "HERO ICON 4@3000x"
+    },
+    {
+      "id": "icons.hero-ai-.png",
+      "path": "assets/icons/Hero AI .png",
+      "format": "png",
+      "name": "Hero AI "
+    },
+    {
+      "id": "icons.hero-streamhouse.png",
+      "path": "assets/icons/Hero Streamhouse.png",
+      "format": "png",
+      "name": "Hero Streamhouse"
+    },
+    {
+      "id": "icons.hero-streaming-data.png",
+      "path": "assets/icons/Hero Streaming Data.png",
+      "format": "png",
+      "name": "Hero Streaming Data"
+    },
+    {
+      "id": "icons.hero-trust.png",
+      "path": "assets/icons/Hero Trust.png",
+      "format": "png",
+      "name": "Hero Trust"
+    },
+    {
+      "id": "icons.new_dynamic_pricing.dynamic_pricing_euro_thin.svg",
+      "path": "assets/icons/New_Dynamic_Pricing/Dynamic_Pricing_Euro_Thin.svg",
+      "format": "svg",
+      "name": "Dynamic_Pricing_Euro_Thin"
+    },
+    {
+      "id": "icons.new_dynamic_pricing.dynamic_pricing_usd_bold.svg",
+      "path": "assets/icons/New_Dynamic_Pricing/Dynamic_Pricing_USD_Bold.svg",
+      "format": "svg",
+      "name": "Dynamic_Pricing_USD_Bold"
+    },
+    {
+      "id": "icons.new_dynamic_pricing.dynamic_pricing_usd_thin.svg",
+      "path": "assets/icons/New_Dynamic_Pricing/Dynamic_Pricing_USD_Thin.svg",
+      "format": "svg",
+      "name": "Dynamic_Pricing_USD_Thin"
+    },
+    {
+      "id": "icons.usd.bold.eu.svg",
+      "path": "assets/icons/USD/Bold/EU.svg",
+      "format": "svg",
+      "name": "EU"
+    },
+    {
+      "id": "icons.usd.bold.loan-processing-usd.svg",
+      "path": "assets/icons/USD/Bold/Loan Processing USD.svg",
+      "format": "svg",
+      "name": "Loan Processing USD"
+    },
+    {
+      "id": "icons.usd.bold.online-banking-usd.svg",
+      "path": "assets/icons/USD/Bold/Online Banking USD.svg",
+      "format": "svg",
+      "name": "Online Banking USD"
+    },
+    {
+      "id": "icons.usd.bold.payment-request-usd.svg",
+      "path": "assets/icons/USD/Bold/Payment Request USD.svg",
+      "format": "svg",
+      "name": "Payment Request USD"
+    },
+    {
+      "id": "icons.usd.bold.usd.png",
+      "path": "assets/icons/USD/Bold/USD.png",
+      "format": "png",
+      "name": "USD"
+    },
+    {
+      "id": "icons.usd.bold.usd.svg",
+      "path": "assets/icons/USD/Bold/USD.svg",
+      "format": "svg",
+      "name": "USD"
+    },
+    {
+      "id": "icons.usd.eu.svg",
+      "path": "assets/icons/USD/EU.svg",
+      "format": "svg",
+      "name": "EU"
+    },
+    {
+      "id": "icons.usd.loan-processing-usd.svg",
+      "path": "assets/icons/USD/Loan Processing USD.svg",
+      "format": "svg",
+      "name": "Loan Processing USD"
+    },
+    {
+      "id": "icons.usd.payment-request-usd.svg",
+      "path": "assets/icons/USD/Payment Request USD.svg",
+      "format": "svg",
+      "name": "Payment Request USD"
+    },
+    {
+      "id": "icons.usd.usd.svg",
+      "path": "assets/icons/USD/USD.svg",
+      "format": "svg",
+      "name": "USD"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.bank_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Bank_Bold 10.svg",
+      "format": "svg",
+      "name": "Bank_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.bank_lean.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Bank_lean.svg",
+      "format": "svg",
+      "name": "Bank_lean"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.classic_data_stack_2_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Classic_Data_Stack_2_Bold 10.svg",
+      "format": "svg",
+      "name": "Classic_Data_Stack_2_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.classic_data_stack_2_lean-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Classic_Data_Stack_2_LEAN 10.svg",
+      "format": "svg",
+      "name": "Classic_Data_Stack_2_LEAN 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.classic_data_stack_3_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Classic_Data_Stack_3_Bold 10.svg",
+      "format": "svg",
+      "name": "Classic_Data_Stack_3_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.customer_360_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Customer_360_Bold 10.svg",
+      "format": "svg",
+      "name": "Customer_360_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.data_lake_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Data_Lake_Bold 10.svg",
+      "format": "svg",
+      "name": "Data_Lake_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.data_warehouse_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Data_Warehouse_Bold 10.svg",
+      "format": "svg",
+      "name": "Data_Warehouse_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.dynamic-pricing_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Dynamic Pricing_Bold 10.svg",
+      "format": "svg",
+      "name": "Dynamic Pricing_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.etl_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/ETL_Bold 10.svg",
+      "format": "svg",
+      "name": "ETL_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.email_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Email_Bold 10.svg",
+      "format": "svg",
+      "name": "Email_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.fraud-detection_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Fraud Detection_Bold 10.svg",
+      "format": "svg",
+      "name": "Fraud Detection_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.growth_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Growth_Bold 10.svg",
+      "format": "svg",
+      "name": "Growth_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.lakehouse_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Lakehouse_Bold 10.svg",
+      "format": "svg",
+      "name": "Lakehouse_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.launch_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Launch_Bold 10.svg",
+      "format": "svg",
+      "name": "Launch_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.mainframe_offloading_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Mainframe_Offloading_Bold 10.svg",
+      "format": "svg",
+      "name": "Mainframe_Offloading_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.multiple_emails_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Multiple_Emails_Bold 10.svg",
+      "format": "svg",
+      "name": "Multiple_Emails_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.plane_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Plane_Bold 10.svg",
+      "format": "svg",
+      "name": "Plane_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.real-time_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Real-Time_Bold 10.svg",
+      "format": "svg",
+      "name": "Real-Time_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.siem_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/SIEM_Bold 10.svg",
+      "format": "svg",
+      "name": "SIEM_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.smart-car_2_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Smart Car_2_Bold 10.svg",
+      "format": "svg",
+      "name": "Smart Car_2_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-lean_round_2.smart-car_bold-10.svg",
+      "path": "assets/icons/_SVG_Black lean_round_2/Smart Car_Bold 10.svg",
+      "format": "svg",
+      "name": "Smart Car_Bold 10"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.atm.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/ATM.svg",
+      "format": "svg",
+      "name": "ATM"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.agentic-workflows.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Agentic Workflows.svg",
+      "format": "svg",
+      "name": "Agentic Workflows"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.byoc.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/BYOC.svg",
+      "format": "svg",
+      "name": "BYOC"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.cog.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Cog.svg",
+      "format": "svg",
+      "name": "Cog"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.compute.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Compute.svg",
+      "format": "svg",
+      "name": "Compute"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.customer-care.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Customer Care.svg",
+      "format": "svg",
+      "name": "Customer Care"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.firewall.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Firewall.svg",
+      "format": "svg",
+      "name": "Firewall"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.fraud-stopped.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Fraud Stopped.svg",
+      "format": "svg",
+      "name": "Fraud Stopped"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.fraud.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Fraud.svg",
+      "format": "svg",
+      "name": "Fraud"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.ingestion.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Ingestion.svg",
+      "format": "svg",
+      "name": "Ingestion"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.loan-processing.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Loan Processing.svg",
+      "format": "svg",
+      "name": "Loan Processing"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.low-latency-streaming-service.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Low-Latency Streaming Service.svg",
+      "format": "svg",
+      "name": "Low-Latency Streaming Service"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.mobile-app.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Mobile App.svg",
+      "format": "svg",
+      "name": "Mobile App"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.model-monitoring.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Model Monitoring.svg",
+      "format": "svg",
+      "name": "Model Monitoring"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.online-banking.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Online Banking.svg",
+      "format": "svg",
+      "name": "Online Banking"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.payment-request.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Payment Request.svg",
+      "format": "svg",
+      "name": "Payment Request"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.real-time-etl.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Real-Time ETL.svg",
+      "format": "svg",
+      "name": "Real-Time ETL"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.real-time-stream-processing-lean.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Real-time stream processing lean.svg",
+      "format": "svg",
+      "name": "Real-time stream processing lean"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.reporting.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Reporting.svg",
+      "format": "svg",
+      "name": "Reporting"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.security-failed.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Security Failed.svg",
+      "format": "svg",
+      "name": "Security Failed"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.security.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Security.svg",
+      "format": "svg",
+      "name": "Security"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.streamhouse.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Streamhouse.svg",
+      "format": "svg",
+      "name": "Streamhouse"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.streaming-data-movement-lean.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Streaming Data Movement lean.svg",
+      "format": "svg",
+      "name": "Streaming Data Movement lean"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.streaming-data-movement.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Streaming Data Movement.svg",
+      "format": "svg",
+      "name": "Streaming Data Movement"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.time.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Time.svg",
+      "format": "svg",
+      "name": "Time"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.user_lean.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/User_lean.svg",
+      "format": "svg",
+      "name": "User_lean"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.ververica-cloud.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/Ververica Cloud.svg",
+      "format": "svg",
+      "name": "Ververica Cloud"
+    },
+    {
+      "id": "icons._svg_black-thin_round_1.storage-lean.svg",
+      "path": "assets/icons/_SVG_Black thin_round_1/storage lean.svg",
+      "format": "svg",
+      "name": "storage lean"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.bank-bold.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Bank Bold.svg",
+      "format": "svg",
+      "name": "Bank Bold"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.classic_data_stack_2_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Classic_Data_Stack_2_Bold 1.svg",
+      "format": "svg",
+      "name": "Classic_Data_Stack_2_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.classic_data_stack_3_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Classic_Data_Stack_3_Bold 1.svg",
+      "format": "svg",
+      "name": "Classic_Data_Stack_3_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.customer_360_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Customer_360_Bold 1.svg",
+      "format": "svg",
+      "name": "Customer_360_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.data_lake_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Data_Lake_Bold 1.svg",
+      "format": "svg",
+      "name": "Data_Lake_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.data_warehouse_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Data_Warehouse_Bold 1.svg",
+      "format": "svg",
+      "name": "Data_Warehouse_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.dynamic-pricing_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Dynamic Pricing_Bold 1.svg",
+      "format": "svg",
+      "name": "Dynamic Pricing_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.etl_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/ETL_Bold 1.svg",
+      "format": "svg",
+      "name": "ETL_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.email_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Email_Bold 1.svg",
+      "format": "svg",
+      "name": "Email_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.fraud-detection_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Fraud Detection_Bold 1.svg",
+      "format": "svg",
+      "name": "Fraud Detection_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.growth_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Growth_Bold 1.svg",
+      "format": "svg",
+      "name": "Growth_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.lakehouse_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Lakehouse_Bold 1.svg",
+      "format": "svg",
+      "name": "Lakehouse_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.launch_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Launch_Bold 1.svg",
+      "format": "svg",
+      "name": "Launch_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.mainframe_offloading_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Mainframe_Offloading_Bold 1.svg",
+      "format": "svg",
+      "name": "Mainframe_Offloading_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.multiple_emails_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Multiple_Emails_Bold 1.svg",
+      "format": "svg",
+      "name": "Multiple_Emails_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.plane_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Plane_Bold 1.svg",
+      "format": "svg",
+      "name": "Plane_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.real-time_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Real-Time_Bold 1.svg",
+      "format": "svg",
+      "name": "Real-Time_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.siem_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/SIEM_Bold 1.svg",
+      "format": "svg",
+      "name": "SIEM_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.smart-car_2_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Smart Car_2_Bold 1.svg",
+      "format": "svg",
+      "name": "Smart Car_2_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_bold_round_2.smart-car_bold-1.svg",
+      "path": "assets/icons/_SVG_Black_bold_round_2/Smart Car_Bold 1.svg",
+      "format": "svg",
+      "name": "Smart Car_Bold 1"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_customer-care.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Customer Care.svg",
+      "format": "svg",
+      "name": "Benefit_Customer Care"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_firewall.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Firewall.svg",
+      "format": "svg",
+      "name": "Benefit_Firewall"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_fraud.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Fraud.svg",
+      "format": "svg",
+      "name": "Benefit_Fraud"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_loan-processing.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Loan Processing.svg",
+      "format": "svg",
+      "name": "Benefit_Loan Processing"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_model-monitoring.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Model Monitoring.svg",
+      "format": "svg",
+      "name": "Benefit_Model Monitoring"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_real-time-etl.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Real-Time ETL.svg",
+      "format": "svg",
+      "name": "Benefit_Real-Time ETL"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_security-failed.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Security Failed.svg",
+      "format": "svg",
+      "name": "Benefit_Security Failed"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_security.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Security.svg",
+      "format": "svg",
+      "name": "Benefit_Security"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_streaming_data.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Streaming_Data.svg",
+      "format": "svg",
+      "name": "Benefit_Streaming_Data"
+    },
+    {
+      "id": "icons._svg_black_round_1.benefit_time.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Benefit_Time.svg",
+      "format": "svg",
+      "name": "Benefit_Time"
+    },
+    {
+      "id": "icons._svg_black_round_1.cloud_storage.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Cloud_Storage.svg",
+      "format": "svg",
+      "name": "Cloud_Storage"
+    },
+    {
+      "id": "icons._svg_black_round_1.cloud_user.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Cloud_User.svg",
+      "format": "svg",
+      "name": "Cloud_User"
+    },
+    {
+      "id": "icons._svg_black_round_1.device_atm.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Device_ATM.svg",
+      "format": "svg",
+      "name": "Device_ATM"
+    },
+    {
+      "id": "icons._svg_black_round_1.device_mobile-app.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Device_Mobile App.svg",
+      "format": "svg",
+      "name": "Device_Mobile App"
+    },
+    {
+      "id": "icons._svg_black_round_1.device_online-banking.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Device_Online Banking.svg",
+      "format": "svg",
+      "name": "Device_Online Banking"
+    },
+    {
+      "id": "icons._svg_black_round_1.device_payment-request.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Device_Payment Request.svg",
+      "format": "svg",
+      "name": "Device_Payment Request"
+    },
+    {
+      "id": "icons._svg_black_round_1.device_reporting.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Device_Reporting.svg",
+      "format": "svg",
+      "name": "Device_Reporting"
+    },
+    {
+      "id": "icons._svg_black_round_1.pillar_ingestion.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Pillar_Ingestion.svg",
+      "format": "svg",
+      "name": "Pillar_Ingestion"
+    },
+    {
+      "id": "icons._svg_black_round_1.pillar_real-time_stream_processing.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Pillar_Real-time_stream_processing.svg",
+      "format": "svg",
+      "name": "Pillar_Real-time_stream_processing"
+    },
+    {
+      "id": "icons._svg_black_round_1.pillar_streamhouse.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Pillar_Streamhouse.svg",
+      "format": "svg",
+      "name": "Pillar_Streamhouse"
+    },
+    {
+      "id": "icons._svg_black_round_1.pillar_streaming-data-movement.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Pillar_Streaming Data Movement.svg",
+      "format": "svg",
+      "name": "Pillar_Streaming Data Movement"
+    },
+    {
+      "id": "icons._svg_black_round_1.use_case_ai.svg",
+      "path": "assets/icons/_SVG_Black_round_1/Use_Case_AI.svg",
+      "format": "svg",
+      "name": "Use_Case_AI"
+    },
+    {
+      "id": "icons.icons-intructions.png",
+      "path": "assets/icons/icons intructions.png",
+      "format": "png",
+      "name": "icons intructions"
+    },
+    {
+      "id": "illustration.arrows.arrow-dynamic-bold.svg",
+      "path": "assets/illustration/Arrows/Arrow-dynamic-bold.svg",
+      "format": "svg",
+      "name": "Arrow-dynamic-bold"
+    },
+    {
+      "id": "illustration.arrows.arrow-dynamic-lean.svg",
+      "path": "assets/illustration/Arrows/Arrow-dynamic-lean.svg",
+      "format": "svg",
+      "name": "Arrow-dynamic-lean"
+    },
+    {
+      "id": "illustration.arrows.corner-arrow.svg",
+      "path": "assets/illustration/Arrows/Corner-arrow.svg",
+      "format": "svg",
+      "name": "Corner-arrow"
+    },
+    {
+      "id": "illustration.arrows.multiple-arrows.svg",
+      "path": "assets/illustration/Arrows/Multiple-arrows.svg",
+      "format": "svg",
+      "name": "Multiple-arrows"
+    },
+    {
+      "id": "illustration.arrows.single_arrow.svg",
+      "path": "assets/illustration/Arrows/Single_Arrow.svg",
+      "format": "svg",
+      "name": "Single_Arrow"
+    },
+    {
+      "id": "illustration.arrows.straight-arrow.svg",
+      "path": "assets/illustration/Arrows/Straight-arrow.svg",
+      "format": "svg",
+      "name": "Straight-arrow"
+    },
+    {
+      "id": "illustration.character_illustrations.png",
+      "path": "assets/illustration/Character_illustrations.png",
+      "format": "png",
+      "name": "Character_illustrations"
+    },
+    {
+      "id": "illustration.characters.architect_01.svg",
+      "path": "assets/illustration/Characters/Architect_01.svg",
+      "format": "svg",
+      "name": "Architect_01"
+    },
+    {
+      "id": "illustration.characters.architect_02.svg",
+      "path": "assets/illustration/Characters/Architect_02.svg",
+      "format": "svg",
+      "name": "Architect_02"
+    },
+    {
+      "id": "illustration.characters.architect_03.svg",
+      "path": "assets/illustration/Characters/Architect_03.svg",
+      "format": "svg",
+      "name": "Architect_03"
+    },
+    {
+      "id": "illustration.characters.architect_04.svg",
+      "path": "assets/illustration/Characters/Architect_04.svg",
+      "format": "svg",
+      "name": "Architect_04"
+    },
+    {
+      "id": "illustration.characters.architect_05.svg",
+      "path": "assets/illustration/Characters/Architect_05.svg",
+      "format": "svg",
+      "name": "Architect_05"
+    },
+    {
+      "id": "illustration.characters.architect_06.svg",
+      "path": "assets/illustration/Characters/Architect_06.svg",
+      "format": "svg",
+      "name": "Architect_06"
+    },
+    {
+      "id": "illustration.characters.builder_01.svg",
+      "path": "assets/illustration/Characters/Builder_01.svg",
+      "format": "svg",
+      "name": "Builder_01"
+    },
+    {
+      "id": "illustration.characters.builder_02.svg",
+      "path": "assets/illustration/Characters/Builder_02.svg",
+      "format": "svg",
+      "name": "Builder_02"
+    },
+    {
+      "id": "illustration.characters.builder_03.svg",
+      "path": "assets/illustration/Characters/Builder_03.svg",
+      "format": "svg",
+      "name": "Builder_03"
+    },
+    {
+      "id": "illustration.characters.builder_04.svg",
+      "path": "assets/illustration/Characters/Builder_04.svg",
+      "format": "svg",
+      "name": "Builder_04"
+    },
+    {
+      "id": "illustration.characters.chaos-bb-solid.svg",
+      "path": "assets/illustration/Characters/Chaos Bb Solid.svg",
+      "format": "svg",
+      "name": "Chaos Bb Solid"
+    },
+    {
+      "id": "illustration.characters.commander_01.svg",
+      "path": "assets/illustration/Characters/Commander_01.svg",
+      "format": "svg",
+      "name": "Commander_01"
+    },
+    {
+      "id": "illustration.characters.commander_02.svg",
+      "path": "assets/illustration/Characters/Commander_02.svg",
+      "format": "svg",
+      "name": "Commander_02"
+    },
+    {
+      "id": "illustration.characters.commander_03.svg",
+      "path": "assets/illustration/Characters/Commander_03.svg",
+      "format": "svg",
+      "name": "Commander_03"
+    },
+    {
+      "id": "illustration.characters.commander_04.svg",
+      "path": "assets/illustration/Characters/Commander_04.svg",
+      "format": "svg",
+      "name": "Commander_04"
+    },
+    {
+      "id": "illustration.characters.commander_05.svg",
+      "path": "assets/illustration/Characters/Commander_05.svg",
+      "format": "svg",
+      "name": "Commander_05"
+    },
+    {
+      "id": "illustration.characters.competitor_01.svg",
+      "path": "assets/illustration/Characters/Competitor_01.svg",
+      "format": "svg",
+      "name": "Competitor_01"
+    },
+    {
+      "id": "illustration.characters.competitor_02.svg",
+      "path": "assets/illustration/Characters/Competitor_02.svg",
+      "format": "svg",
+      "name": "Competitor_02"
+    },
+    {
+      "id": "illustration.characters.competitor_03.svg",
+      "path": "assets/illustration/Characters/Competitor_03.svg",
+      "format": "svg",
+      "name": "Competitor_03"
+    },
+    {
+      "id": "illustration.characters.ogs.chaos-bb.svg",
+      "path": "assets/illustration/Characters/OGs/Chaos Bb.svg",
+      "format": "svg",
+      "name": "Chaos Bb"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_box-face.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Box Face.svg",
+      "format": "svg",
+      "name": "ververica_characters_Box Face"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_chaos-fan.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Chaos Fan.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chaos Fan"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_chill-unit-one.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Chill Unit One.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chill Unit One"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_chill-unit-two.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Chill Unit Two.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chill Unit Two"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_data-blob.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Data Blob.svg",
+      "format": "svg",
+      "name": "ververica_characters_Data Blob"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_double-take.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Double Take.svg",
+      "format": "svg",
+      "name": "ververica_characters_Double Take"
+    },
+    {
+      "id": "illustration.characters.ogs.ververica_characters_mega-star.svg",
+      "path": "assets/illustration/Characters/OGs/ververica_characters_Mega Star.svg",
+      "format": "svg",
+      "name": "ververica_characters_Mega Star"
+    },
+    {
+      "id": "illustration.characters.operator_01.svg",
+      "path": "assets/illustration/Characters/Operator_01.svg",
+      "format": "svg",
+      "name": "Operator_01"
+    },
+    {
+      "id": "illustration.characters.operator_02.svg",
+      "path": "assets/illustration/Characters/Operator_02.svg",
+      "format": "svg",
+      "name": "Operator_02"
+    },
+    {
+      "id": "illustration.characters.operator_03.svg",
+      "path": "assets/illustration/Characters/Operator_03.svg",
+      "format": "svg",
+      "name": "Operator_03"
+    },
+    {
+      "id": "illustration.characters.operator_04.svg",
+      "path": "assets/illustration/Characters/Operator_04.svg",
+      "format": "svg",
+      "name": "Operator_04"
+    },
+    {
+      "id": "illustration.characters.operator_05.svg",
+      "path": "assets/illustration/Characters/Operator_05.svg",
+      "format": "svg",
+      "name": "Operator_05"
+    },
+    {
+      "id": "illustration.characters.strategist_01.svg",
+      "path": "assets/illustration/Characters/Strategist_01.svg",
+      "format": "svg",
+      "name": "Strategist_01"
+    },
+    {
+      "id": "illustration.characters.strategist_02.svg",
+      "path": "assets/illustration/Characters/Strategist_02.svg",
+      "format": "svg",
+      "name": "Strategist_02"
+    },
+    {
+      "id": "illustration.characters.strategist_03.svg",
+      "path": "assets/illustration/Characters/Strategist_03.svg",
+      "format": "svg",
+      "name": "Strategist_03"
+    },
+    {
+      "id": "illustration.characters.strategist_04.svg",
+      "path": "assets/illustration/Characters/Strategist_04.svg",
+      "format": "svg",
+      "name": "Strategist_04"
+    },
+    {
+      "id": "illustration.characters.strategist_05.svg",
+      "path": "assets/illustration/Characters/Strategist_05.svg",
+      "format": "svg",
+      "name": "Strategist_05"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect.svg",
+      "format": "svg",
+      "name": "Architect"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_01.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_01.svg",
+      "format": "svg",
+      "name": "Architect_01"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_02.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_02.svg",
+      "format": "svg",
+      "name": "Architect_02"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_03.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_03.svg",
+      "format": "svg",
+      "name": "Architect_03"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_04-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_04 2.svg",
+      "format": "svg",
+      "name": "Architect_04 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_05.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_05.svg",
+      "format": "svg",
+      "name": "Architect_05"
+    },
+    {
+      "id": "illustration.characters.without-texture.architect_06-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Architect_06 2.svg",
+      "format": "svg",
+      "name": "Architect_06 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.builder.svg",
+      "path": "assets/illustration/Characters/Without Texture/Builder.svg",
+      "format": "svg",
+      "name": "Builder"
+    },
+    {
+      "id": "illustration.characters.without-texture.builder_01-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Builder_01 2.svg",
+      "format": "svg",
+      "name": "Builder_01 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.builder_02-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Builder_02 2.svg",
+      "format": "svg",
+      "name": "Builder_02 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.builder_03-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Builder_03 2.svg",
+      "format": "svg",
+      "name": "Builder_03 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.builder_04-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Builder_04 2.svg",
+      "format": "svg",
+      "name": "Builder_04 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander.svg",
+      "format": "svg",
+      "name": "Commander"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander_01-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander_01 2.svg",
+      "format": "svg",
+      "name": "Commander_01 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander_02-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander_02 2.svg",
+      "format": "svg",
+      "name": "Commander_02 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander_03-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander_03 2.svg",
+      "format": "svg",
+      "name": "Commander_03 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander_04-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander_04 2.svg",
+      "format": "svg",
+      "name": "Commander_04 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.commander_05-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Commander_05 2.svg",
+      "format": "svg",
+      "name": "Commander_05 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator.svg",
+      "format": "svg",
+      "name": "Operator"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator_01-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator_01 2.svg",
+      "format": "svg",
+      "name": "Operator_01 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator_02-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator_02 2.svg",
+      "format": "svg",
+      "name": "Operator_02 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator_03-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator_03 2.svg",
+      "format": "svg",
+      "name": "Operator_03 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator_04-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator_04 2.svg",
+      "format": "svg",
+      "name": "Operator_04 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.operator_05-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Operator_05 2.svg",
+      "format": "svg",
+      "name": "Operator_05 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist.svg",
+      "format": "svg",
+      "name": "Strategist"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist_01-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist_01 2.svg",
+      "format": "svg",
+      "name": "Strategist_01 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist_02-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist_02 2.svg",
+      "format": "svg",
+      "name": "Strategist_02 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist_03-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist_03 2.svg",
+      "format": "svg",
+      "name": "Strategist_03 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist_04-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist_04 2.svg",
+      "format": "svg",
+      "name": "Strategist_04 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.strategist_05-2.svg",
+      "path": "assets/illustration/Characters/Without Texture/Strategist_05 2.svg",
+      "format": "svg",
+      "name": "Strategist_05 2"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters-14.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters-14.svg",
+      "format": "svg",
+      "name": "ververica_characters-14"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_chaos-fan-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Chaos Fan Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chaos Fan Solid"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_chill-unit-one-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Chill Unit One Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chill Unit One Solid"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_chill-unit-two-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Chill Unit Two Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Chill Unit Two Solid"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_data-blob-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Data Blob Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Data Blob Solid"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_double-take-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Double Take Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Double Take Solid"
+    },
+    {
+      "id": "illustration.characters.without-texture.ververica_characters_mega-star-solid.svg",
+      "path": "assets/illustration/Characters/Without Texture/ververica_characters_Mega Star Solid.svg",
+      "format": "svg",
+      "name": "ververica_characters_Mega Star Solid"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-30.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-30.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-30"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-31.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-31.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-31"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-32.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-32.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-32"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-33.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-33.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-33"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-34.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-34.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-34"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-35.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-35.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-35"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-36.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-36.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-36"
+    },
+    {
+      "id": "illustration.svg.ververica_icons_all-38.svg",
+      "path": "assets/illustration/SVG/Ververica_Icons_All-38.svg",
+      "format": "svg",
+      "name": "Ververica_Icons_All-38"
+    },
+    {
+      "id": "illustration.svg.ai.svg",
+      "path": "assets/illustration/SVG/ai.svg",
+      "format": "svg",
+      "name": "ai"
+    },
+    {
+      "id": "illustration.diagram.png",
+      "path": "assets/illustration/diagram.png",
+      "format": "png",
+      "name": "diagram"
+    },
+    {
+      "id": "illustration.diagram_2.png",
+      "path": "assets/illustration/diagram_2.png",
+      "format": "png",
+      "name": "diagram_2"
+    },
+    {
+      "id": "illustration.diagram_3.png",
+      "path": "assets/illustration/diagram_3.png",
+      "format": "png",
+      "name": "diagram_3"
+    },
+    {
+      "id": "illustration.diagram_4.png",
+      "path": "assets/illustration/diagram_4.png",
+      "format": "png",
+      "name": "diagram_4"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_01.-brand-dark-theme.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_01. Brand Dark Theme.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_01. Brand Dark Theme"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_02.-the-monochrome.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_02. The Monochrome.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_02. The Monochrome"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_03.-momentum-volt.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_03. Momentum Volt.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_03. Momentum Volt"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_04.-ledger-blue.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_04. Ledger Blue.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_04. Ledger Blue"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_05.-flink-royalty.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_05. Flink Royalty.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_05. Flink Royalty"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_06.-high-voltage-thought-leadership.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_06. High-Voltage Thought Leadership.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_06. High-Voltage Thought Leadership"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_07.-engineering-edge.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_07. Engineering Edge.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_07. Engineering Edge"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_08.-logic-grey.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_08. Logic Grey.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_08. Logic Grey"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_09.-the-educator.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_09. The Educator.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_09. The Educator"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_10.-critical-alert.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_10. Critical Alert.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_10. Critical Alert"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-01.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 01.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 01"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-02.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 02.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 02"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-03.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 03.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 03"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-04.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 04.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 04"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-05.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 05.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 05"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-06.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 06.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 06"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-07.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 07.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 07"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-08.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 08.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 08"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-09.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 09.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 09"
+    },
+    {
+      "id": "illustration.illustration-mood-board_neon_v2_theme-10.png",
+      "path": "assets/illustration/illustration mood board_neon_v2_Theme 10.png",
+      "format": "png",
+      "name": "illustration mood board_neon_v2_Theme 10"
+    },
+    {
+      "id": "logo-guidelines.2000w.co-branding-example-horiztional@2000x.png",
+      "path": "assets/logo-guidelines/2000w/Co-Branding Example Horiztional@2000x.png",
+      "format": "png",
+      "name": "Co-Branding Example Horiztional@2000x"
+    },
+    {
+      "id": "logo-guidelines.2000w.co-branding-example-stacked@2000x.png",
+      "path": "assets/logo-guidelines/2000w/Co-Branding Example Stacked@2000x.png",
+      "format": "png",
+      "name": "Co-Branding Example Stacked@2000x"
+    },
+    {
+      "id": "logo-guidelines.2000w.co-branding-image-mark@2000x.png",
+      "path": "assets/logo-guidelines/2000w/Co-Branding Image Mark@2000x.png",
+      "format": "png",
+      "name": "Co-Branding Image Mark@2000x"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-02.png",
+      "path": "assets/logo-guidelines/Logo_Rules-02.png",
+      "format": "png",
+      "name": "Logo_Rules-02"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-03.png",
+      "path": "assets/logo-guidelines/Logo_Rules-03.png",
+      "format": "png",
+      "name": "Logo_Rules-03"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-04.png",
+      "path": "assets/logo-guidelines/Logo_Rules-04.png",
+      "format": "png",
+      "name": "Logo_Rules-04"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-05.png",
+      "path": "assets/logo-guidelines/Logo_Rules-05.png",
+      "format": "png",
+      "name": "Logo_Rules-05"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-06.png",
+      "path": "assets/logo-guidelines/Logo_Rules-06.png",
+      "format": "png",
+      "name": "Logo_Rules-06"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-07.png",
+      "path": "assets/logo-guidelines/Logo_Rules-07.png",
+      "format": "png",
+      "name": "Logo_Rules-07"
+    },
+    {
+      "id": "logo-guidelines.logo_rules-08.png",
+      "path": "assets/logo-guidelines/Logo_Rules-08.png",
+      "format": "png",
+      "name": "Logo_Rules-08"
+    },
+    {
+      "id": "logo-guidelines.logo_rules_do-not-use-the-old-logo.png",
+      "path": "assets/logo-guidelines/Logo_Rules_Do Not Use the Old Logo.png",
+      "format": "png",
+      "name": "Logo_Rules_Do Not Use the Old Logo"
+    },
+    {
+      "id": "logo-guidelines.svg.logo-mark-outline.svg",
+      "path": "assets/logo-guidelines/SVG/Logo Mark Outline.svg",
+      "format": "svg",
+      "name": "Logo Mark Outline"
+    },
+    {
+      "id": "logo-guidelines.svg.ververica_logo_outline.svg",
+      "path": "assets/logo-guidelines/SVG/Ververica_Logo_Outline.svg",
+      "format": "svg",
+      "name": "Ververica_Logo_Outline"
+    },
+    {
+      "id": "logo-guidelines.svg.ververica_magenta_wordmark.svg",
+      "path": "assets/logo-guidelines/SVG/Ververica_magenta_wordmark.svg",
+      "format": "svg",
+      "name": "Ververica_magenta_wordmark"
+    },
+    {
+      "id": "logo-guidelines.svg.wordmark-outline.svg",
+      "path": "assets/logo-guidelines/SVG/Wordmark Outline.svg",
+      "format": "svg",
+      "name": "Wordmark Outline"
+    },
+    {
+      "id": "logo-guidelines.svg.v.svg",
+      "path": "assets/logo-guidelines/SVG/v.svg",
+      "format": "svg",
+      "name": "v"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_black_rgb.png",
+      "path": "assets/logo-guidelines/Ververica-Logo_Black_RGB.png",
+      "format": "png",
+      "name": "Ververica-Logo_Black_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_magenta_black_rgb.jpg",
+      "path": "assets/logo-guidelines/Ververica-Logo_Magenta_Black_RGB.jpg",
+      "format": "jpg",
+      "name": "Ververica-Logo_Magenta_Black_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_magenta_black_rgb.png",
+      "path": "assets/logo-guidelines/Ververica-Logo_Magenta_Black_RGB.png",
+      "format": "png",
+      "name": "Ververica-Logo_Magenta_Black_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_magenta_rgb.png",
+      "path": "assets/logo-guidelines/Ververica-Logo_Magenta_RGB.png",
+      "format": "png",
+      "name": "Ververica-Logo_Magenta_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_magenta_white_rgb.jpg",
+      "path": "assets/logo-guidelines/Ververica-Logo_Magenta_White_RGB.jpg",
+      "format": "jpg",
+      "name": "Ververica-Logo_Magenta_White_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_magenta_white_rgb.png",
+      "path": "assets/logo-guidelines/Ververica-Logo_Magenta_White_RGB.png",
+      "format": "png",
+      "name": "Ververica-Logo_Magenta_White_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_mono_black_rgb.jpg",
+      "path": "assets/logo-guidelines/Ververica-Logo_Mono_Black_RGB.jpg",
+      "format": "jpg",
+      "name": "Ververica-Logo_Mono_Black_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_mono_magenta.jpg",
+      "path": "assets/logo-guidelines/Ververica-Logo_Mono_Magenta.jpg",
+      "format": "jpg",
+      "name": "Ververica-Logo_Mono_Magenta"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_mono_white_rgb.jpg",
+      "path": "assets/logo-guidelines/Ververica-Logo_Mono_White_RGB.jpg",
+      "format": "jpg",
+      "name": "Ververica-Logo_Mono_White_RGB"
+    },
+    {
+      "id": "logo-guidelines.ververica-logo_white_rgb.png",
+      "path": "assets/logo-guidelines/Ververica-Logo_White_RGB.png",
+      "format": "png",
+      "name": "Ververica-Logo_White_RGB"
+    },
+    {
+      "id": "logo-guidelines.logo-docs_academy_white.svg",
+      "path": "assets/logo-guidelines/logo-docs_Academy_White.svg",
+      "format": "svg",
+      "name": "logo-docs_Academy_White"
+    },
+    {
+      "id": "logo-guidelines.logo-docs_docs_white.svg",
+      "path": "assets/logo-guidelines/logo-docs_Docs_White.svg",
+      "format": "svg",
+      "name": "logo-docs_Docs_White"
+    },
+    {
+      "id": "logo-guidelines.logo_brand_white.svg",
+      "path": "assets/logo-guidelines/logo_Brand_White.svg",
+      "format": "svg",
+      "name": "logo_Brand_White"
+    },
+    {
+      "id": "patterns.cutouts.bridgesort",
+      "path": "assets/patterns/Cutouts/.BridgeSort",
+      "format": "",
+      "name": ".BridgeSort"
+    },
+    {
+      "id": "patterns.cutouts.border.bridgesort",
+      "path": "assets/patterns/Cutouts/Border/.BridgeSort",
+      "format": "",
+      "name": ".BridgeSort"
+    },
+    {
+      "id": "patterns.cutouts.border.border0-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border0 (1).svg",
+      "format": "svg",
+      "name": "Border0 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border0.svg",
+      "path": "assets/patterns/Cutouts/Border/Border0.svg",
+      "format": "svg",
+      "name": "Border0"
+    },
+    {
+      "id": "patterns.cutouts.border.border1-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border1 (1).svg",
+      "format": "svg",
+      "name": "Border1 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border1-(2).svg",
+      "path": "assets/patterns/Cutouts/Border/Border1 (2).svg",
+      "format": "svg",
+      "name": "Border1 (2)"
+    },
+    {
+      "id": "patterns.cutouts.border.border1.svg",
+      "path": "assets/patterns/Cutouts/Border/Border1.svg",
+      "format": "svg",
+      "name": "Border1"
+    },
+    {
+      "id": "patterns.cutouts.border.border2-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border2 (1).svg",
+      "format": "svg",
+      "name": "Border2 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border2.svg",
+      "path": "assets/patterns/Cutouts/Border/Border2.svg",
+      "format": "svg",
+      "name": "Border2"
+    },
+    {
+      "id": "patterns.cutouts.border.border3-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border3 (1).svg",
+      "format": "svg",
+      "name": "Border3 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border3.svg",
+      "path": "assets/patterns/Cutouts/Border/Border3.svg",
+      "format": "svg",
+      "name": "Border3"
+    },
+    {
+      "id": "patterns.cutouts.border.border4-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border4 (1).svg",
+      "format": "svg",
+      "name": "Border4 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border4.svg",
+      "path": "assets/patterns/Cutouts/Border/Border4.svg",
+      "format": "svg",
+      "name": "Border4"
+    },
+    {
+      "id": "patterns.cutouts.border.border5-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border5 (1).svg",
+      "format": "svg",
+      "name": "Border5 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border5.svg",
+      "path": "assets/patterns/Cutouts/Border/Border5.svg",
+      "format": "svg",
+      "name": "Border5"
+    },
+    {
+      "id": "patterns.cutouts.border.border6-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border6 (1).svg",
+      "format": "svg",
+      "name": "Border6 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border6.svg",
+      "path": "assets/patterns/Cutouts/Border/Border6.svg",
+      "format": "svg",
+      "name": "Border6"
+    },
+    {
+      "id": "patterns.cutouts.border.border7-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border7 (1).svg",
+      "format": "svg",
+      "name": "Border7 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border7.svg",
+      "path": "assets/patterns/Cutouts/Border/Border7.svg",
+      "format": "svg",
+      "name": "Border7"
+    },
+    {
+      "id": "patterns.cutouts.border.border8-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border8 (1).svg",
+      "format": "svg",
+      "name": "Border8 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border8.svg",
+      "path": "assets/patterns/Cutouts/Border/Border8.svg",
+      "format": "svg",
+      "name": "Border8"
+    },
+    {
+      "id": "patterns.cutouts.border.border9-(1).svg",
+      "path": "assets/patterns/Cutouts/Border/Border9 (1).svg",
+      "format": "svg",
+      "name": "Border9 (1)"
+    },
+    {
+      "id": "patterns.cutouts.border.border9.svg",
+      "path": "assets/patterns/Cutouts/Border/Border9.svg",
+      "format": "svg",
+      "name": "Border9"
+    },
+    {
+      "id": "patterns.cutouts.examples.bridgesort",
+      "path": "assets/patterns/Cutouts/Examples/.BridgeSort",
+      "format": "",
+      "name": ".BridgeSort"
+    },
+    {
+      "id": "patterns.cutouts.examples.frame-cutout.png",
+      "path": "assets/patterns/Cutouts/Examples/Frame Cutout.png",
+      "format": "png",
+      "name": "Frame Cutout"
+    },
+    {
+      "id": "patterns.cutouts.examples.frame.png",
+      "path": "assets/patterns/Cutouts/Examples/Frame.png",
+      "format": "png",
+      "name": "Frame"
+    },
+    {
+      "id": "patterns.cutouts.examples.glitch-border.png",
+      "path": "assets/patterns/Cutouts/Examples/Glitch-Border.png",
+      "format": "png",
+      "name": "Glitch-Border"
+    },
+    {
+      "id": "patterns.cutouts.examples.multiple-borders.png",
+      "path": "assets/patterns/Cutouts/Examples/Multiple Borders.png",
+      "format": "png",
+      "name": "Multiple Borders"
+    },
+    {
+      "id": "patterns.cutouts.examples.solid-border.png",
+      "path": "assets/patterns/Cutouts/Examples/Solid-Border.png",
+      "format": "png",
+      "name": "Solid-Border"
+    },
+    {
+      "id": "patterns.cutouts.examples.stroke-border.png",
+      "path": "assets/patterns/Cutouts/Examples/Stroke-Border.png",
+      "format": "png",
+      "name": "Stroke-Border"
+    },
+    {
+      "id": "patterns.cutouts.examples.tall-x-border.png",
+      "path": "assets/patterns/Cutouts/Examples/Tall X Border.png",
+      "format": "png",
+      "name": "Tall X Border"
+    },
+    {
+      "id": "patterns.cutouts.examples.x-border.png",
+      "path": "assets/patterns/Cutouts/Examples/X-Border.png",
+      "format": "png",
+      "name": "X-Border"
+    },
+    {
+      "id": "patterns.cutouts.solid.bridgesort",
+      "path": "assets/patterns/Cutouts/Solid/.BridgeSort",
+      "format": "",
+      "name": ".BridgeSort"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout0.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout0.svg",
+      "format": "svg",
+      "name": "Solid_Cutout0"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout1-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout1 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout1 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout1.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout1.svg",
+      "format": "svg",
+      "name": "Solid_Cutout1"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout2-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout2 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout2 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout2.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout2.svg",
+      "format": "svg",
+      "name": "Solid_Cutout2"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout3-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout3 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout3 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout3.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout3.svg",
+      "format": "svg",
+      "name": "Solid_Cutout3"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout4-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout4 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout4 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout4.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout4.svg",
+      "format": "svg",
+      "name": "Solid_Cutout4"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout5-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout5 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout5 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout5.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout5.svg",
+      "format": "svg",
+      "name": "Solid_Cutout5"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout6-(1).svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout6 (1).svg",
+      "format": "svg",
+      "name": "Solid_Cutout6 (1)"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout6.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout6.svg",
+      "format": "svg",
+      "name": "Solid_Cutout6"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout7.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout7.svg",
+      "format": "svg",
+      "name": "Solid_Cutout7"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout8.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout8.svg",
+      "format": "svg",
+      "name": "Solid_Cutout8"
+    },
+    {
+      "id": "patterns.cutouts.solid.solid_cutout9.svg",
+      "path": "assets/patterns/Cutouts/Solid/Solid_Cutout9.svg",
+      "format": "svg",
+      "name": "Solid_Cutout9"
+    },
+    {
+      "id": "patterns.cyber-cutout_1.png",
+      "path": "assets/patterns/Cyber Cutout_1.png",
+      "format": "png",
+      "name": "Cyber Cutout_1"
+    },
+    {
+      "id": "patterns.cyber-cutout_2.png",
+      "path": "assets/patterns/Cyber Cutout_2.png",
+      "format": "png",
+      "name": "Cyber Cutout_2"
+    },
+    {
+      "id": "patterns.cyber-cutout_3.png",
+      "path": "assets/patterns/Cyber Cutout_3.png",
+      "format": "png",
+      "name": "Cyber Cutout_3"
+    },
+    {
+      "id": "patterns.cyber-cutout_4.png",
+      "path": "assets/patterns/Cyber Cutout_4.png",
+      "format": "png",
+      "name": "Cyber Cutout_4"
+    },
+    {
+      "id": "patterns.cyber-cutout_5.png",
+      "path": "assets/patterns/Cyber Cutout_5.png",
+      "format": "png",
+      "name": "Cyber Cutout_5"
+    },
+    {
+      "id": "patterns.geometric.pixel-grid-skyscrapper.svg",
+      "path": "assets/patterns/Geometric/Pixel Grid Skyscrapper.svg",
+      "format": "svg",
+      "name": "Pixel Grid Skyscrapper"
+    },
+    {
+      "id": "patterns.geometric.pixel-grid-square.svg",
+      "path": "assets/patterns/Geometric/Pixel Grid Square.svg",
+      "format": "svg",
+      "name": "Pixel Grid Square"
+    },
+    {
+      "id": "patterns.geometric.pixel-grid-tall.svg",
+      "path": "assets/patterns/Geometric/Pixel Grid Tall.svg",
+      "format": "svg",
+      "name": "Pixel Grid Tall"
+    },
+    {
+      "id": "patterns.geometric.pixel-grid-wide.svg",
+      "path": "assets/patterns/Geometric/Pixel Grid Wide.svg",
+      "format": "svg",
+      "name": "Pixel Grid Wide"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-1.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-1.svg",
+      "format": "svg",
+      "name": "pattern geometric-1"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-2.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-2.svg",
+      "format": "svg",
+      "name": "pattern geometric-2"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-3.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-3.svg",
+      "format": "svg",
+      "name": "pattern geometric-3"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-4.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-4.svg",
+      "format": "svg",
+      "name": "pattern geometric-4"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-5.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-5.svg",
+      "format": "svg",
+      "name": "pattern geometric-5"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-6.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-6.svg",
+      "format": "svg",
+      "name": "pattern geometric-6"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-7.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-7.svg",
+      "format": "svg",
+      "name": "pattern geometric-7"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-8.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-8.svg",
+      "format": "svg",
+      "name": "pattern geometric-8"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric-9.svg",
+      "path": "assets/patterns/Geometric/pattern geometric-9.svg",
+      "format": "svg",
+      "name": "pattern geometric-9"
+    },
+    {
+      "id": "patterns.geometric.pattern-geometric.svg",
+      "path": "assets/patterns/Geometric/pattern geometric.svg",
+      "format": "svg",
+      "name": "pattern geometric"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-black.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern black.svg",
+      "format": "svg",
+      "name": "pattern black"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-blue.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern blue.svg",
+      "format": "svg",
+      "name": "pattern blue"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-geometric.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern geometric.svg",
+      "format": "svg",
+      "name": "pattern geometric"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-geometric_2.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern geometric_2.svg",
+      "format": "svg",
+      "name": "pattern geometric_2"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-green.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern green.svg",
+      "format": "svg",
+      "name": "pattern green"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-pink.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern pink.svg",
+      "format": "svg",
+      "name": "pattern pink"
+    },
+    {
+      "id": "patterns.glitch-pattern.pattern-white.svg",
+      "path": "assets/patterns/Glitch Pattern/pattern white.svg",
+      "format": "svg",
+      "name": "pattern white"
+    },
+    {
+      "id": "patterns.pattern-1.png",
+      "path": "assets/patterns/Pattern 1.png",
+      "format": "png",
+      "name": "Pattern 1"
+    },
+    {
+      "id": "patterns.pattern-2.png",
+      "path": "assets/patterns/Pattern 2.png",
+      "format": "png",
+      "name": "Pattern 2"
+    },
+    {
+      "id": "patterns.pattern-3.png",
+      "path": "assets/patterns/Pattern 3.png",
+      "format": "png",
+      "name": "Pattern 3"
+    },
+    {
+      "id": "patterns.pattern.png",
+      "path": "assets/patterns/Pattern.png",
+      "format": "png",
+      "name": "Pattern"
+    },
+    {
+      "id": "patterns.pattern_1.png",
+      "path": "assets/patterns/Pattern_1.png",
+      "format": "png",
+      "name": "Pattern_1"
+    },
+    {
+      "id": "patterns.pattern_2.png",
+      "path": "assets/patterns/Pattern_2.png",
+      "format": "png",
+      "name": "Pattern_2"
+    },
+    {
+      "id": "patterns.pattern_3.png",
+      "path": "assets/patterns/Pattern_3.png",
+      "format": "png",
+      "name": "Pattern_3"
+    },
+    {
+      "id": "patterns.pattern_v2-01.png",
+      "path": "assets/patterns/Pattern_v2-01.png",
+      "format": "png",
+      "name": "Pattern_v2-01"
+    },
+    {
+      "id": "patterns.pattern_v2-02.png",
+      "path": "assets/patterns/Pattern_v2-02.png",
+      "format": "png",
+      "name": "Pattern_v2-02"
+    },
+    {
+      "id": "patterns.pattern_v2-03.png",
+      "path": "assets/patterns/Pattern_v2-03.png",
+      "format": "png",
+      "name": "Pattern_v2-03"
+    },
+    {
+      "id": "patterns.pattern_v2-04.png",
+      "path": "assets/patterns/Pattern_v2-04.png",
+      "format": "png",
+      "name": "Pattern_v2-04"
+    },
+    {
+      "id": "patterns.pattern_v2-05.png",
+      "path": "assets/patterns/Pattern_v2-05.png",
+      "format": "png",
+      "name": "Pattern_v2-05"
+    },
+    {
+      "id": "patterns.pattern_v2-06.png",
+      "path": "assets/patterns/Pattern_v2-06.png",
+      "format": "png",
+      "name": "Pattern_v2-06"
+    },
+    {
+      "id": "patterns.pattern_v2-07.png",
+      "path": "assets/patterns/Pattern_v2-07.png",
+      "format": "png",
+      "name": "Pattern_v2-07"
+    },
+    {
+      "id": "patterns.pattern_v2-08.png",
+      "path": "assets/patterns/Pattern_v2-08.png",
+      "format": "png",
+      "name": "Pattern_v2-08"
+    },
+    {
+      "id": "patterns.pattern_v2-09.png",
+      "path": "assets/patterns/Pattern_v2-09.png",
+      "format": "png",
+      "name": "Pattern_v2-09"
+    },
+    {
+      "id": "patterns.pattern_v2-10.png",
+      "path": "assets/patterns/Pattern_v2-10.png",
+      "format": "png",
+      "name": "Pattern_v2-10"
+    },
+    {
+      "id": "patterns.pattern_v2-11.png",
+      "path": "assets/patterns/Pattern_v2-11.png",
+      "format": "png",
+      "name": "Pattern_v2-11"
+    },
+    {
+      "id": "trust-seals.eu_seal_circle.png",
+      "path": "assets/trust-seals/EU_seal_circle.png",
+      "format": "png",
+      "name": "EU_seal_circle"
+    },
+    {
+      "id": "trust-seals.eu_seal_rectangle.png",
+      "path": "assets/trust-seals/EU_seal_rectangle.png",
+      "format": "png",
+      "name": "EU_seal_rectangle"
+    },
+    {
+      "id": "trust-seals.gdpr.png",
+      "path": "assets/trust-seals/GDPR.png",
+      "format": "png",
+      "name": "GDPR"
+    },
+    {
+      "id": "trust-seals.iso:iec.png",
+      "path": "assets/trust-seals/ISO:IEC.png",
+      "format": "png",
+      "name": "ISO:IEC"
+    },
+    {
+      "id": "trust-seals.soc-2-type-ii.png",
+      "path": "assets/trust-seals/SOC 2 Type II.png",
+      "format": "png",
+      "name": "SOC 2 Type II"
+    },
+    {
+      "id": "trust-seals.star-level-1-badge-f572686709b8f897f07df08ad760e0fe05f6fd523aff965a5b283e19d60247fa.svg",
+      "path": "assets/trust-seals/STAR-Level-1-badge-f572686709b8f897f07df08ad760e0fe05f6fd523aff965a5b283e19d60247fa.svg",
+      "format": "svg",
+      "name": "STAR-Level-1-badge-f572686709b8f897f07df08ad760e0fe05f6fd523aff965a5b283e19d60247fa"
+    },
+    {
+      "id": "trust-seals.star-level-1.png",
+      "path": "assets/trust-seals/Star Level 1.png",
+      "format": "png",
+      "name": "Star Level 1"
+    },
+    {
+      "id": "trust-seals.star-level-one.png",
+      "path": "assets/trust-seals/Star Level One.png",
+      "format": "png",
+      "name": "Star Level One"
+    },
+    {
+      "id": "trust-seals.x.soc_marks.png",
+      "path": "assets/trust-seals/x/SOC_Marks.png",
+      "format": "png",
+      "name": "SOC_Marks"
+    },
+    {
+      "id": "trust-seals.x.a1d8431982bf8c3d9f9f648a41d190e8ab5fc6b3-137x137.svg",
+      "path": "assets/trust-seals/x/a1d8431982bf8c3d9f9f648a41d190e8ab5fc6b3-137x137.svg",
+      "format": "svg",
+      "name": "a1d8431982bf8c3d9f9f648a41d190e8ab5fc6b3-137x137"
+    },
+    {
+      "id": "trust-seals.x.d002f0cf614be0b9db538d839421808fee7358d4-48x48.svg",
+      "path": "assets/trust-seals/x/d002f0cf614be0b9db538d839421808fee7358d4-48x48.svg",
+      "format": "svg",
+      "name": "d002f0cf614be0b9db538d839421808fee7358d4-48x48"
+    }
+  ]
+}
